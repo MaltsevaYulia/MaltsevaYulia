@@ -1,5 +1,12 @@
 ### Hi there 👋
+![](https://github.com/MaltsevaYulia/MaltsevaYulia/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
+## I'm a beginner FullStack Developer from Ukraine
+
+
+## EDUCATION
+
+<img src="https://img.shields.io/badge/goit-00008B?style=for-the-badge&logo=goit&logoColor=white"/> 
 <!--
 **MaltsevaYulia/MaltsevaYulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
