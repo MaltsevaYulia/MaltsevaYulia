@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ![](https://github.com/MaltsevaYulia/MaltsevaYulia/blob/main/assets/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
-## I'm a beginner FullStack Developer from Ukraine
+## Hi there 👋 I'm a beginner FullStack Developer from Ukraine
 
 ## EDUCATION
 
