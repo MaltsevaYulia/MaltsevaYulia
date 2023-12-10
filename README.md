@@ -25,6 +25,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaltsevaYulia&show_icons=true&theme=tokyonight)
 
+## PRACTICE
+
+![LinkedIn](https://img.shields.io/badge/freecodecamp-008000?style=for-the-badge&logo=freecodecamp&logoColor=white)
+ 
+
 ## CONTACTS
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliya-maltseva/) [ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MUSjuly)
